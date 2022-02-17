@@ -1,0 +1,224 @@
+id,title,description,projects,projects_by_level,best_rated_project,fastest_to_complete_project,progress_id,seconds_to_complete,topics_count,results,is_on_onboarding,is_beta,is_free,careers,root_topic_id,type,url
+2,Python Core,"This track will guide you on your path of mastering Python, one of the much-in-demand languages in today's environment. Known for its straightforward syntax, Python is easy to learn and use, which accounts for its popularity and makes its community grow every day. This track is dedicated to core Python skills that will give you a solid base and allow you to pursue any further direction, be it Backend Development or Data Science.","[175, 157, 146, 163, 162, 145, 134, 173, 166, 128, 127, 176, 78, 114, 69, 79, 73, 82, 90, 112, 99, 74, 68, 80, 141, 97, 208, 98]","{'easy': [175, 90, 97, 208, 98], 'medium': [157, 146, 162, 145, 173, 78, 69, 73, 68, 141], 'hard': [163, 134, 176, 114, 79, 82, 99], 'nightmare': [166, 128, 127, 112, 74, 80]}",175,157,130-2,639149.0056680036,209,"<p>Throughout the learning process, you will work on projects that correspond to your interests and your level and acquire new information from theoretical references. Starting from simpler projects like programming a tool for splitting a bill, you will move on to more challenging ones like implementing a web-browser, hacking passwords, or creating your own code analyzer. Having finished this track, you will be able to confidently continue your learning process, for example, by diving into Data Science or focusing on web development with the Django framework.<br />
+<br />
+While progressing through different projects of this track, you will have a chance to:</p>
+
+<ul>
+	<li>Get to know the Python syntax and its basic rules;</li>
+	<li>Learn to work in an IDE, a special environment to write your code in;</li>
+	<li>Process data from different sources (text, JSON, HTML, and web-pages);</li>
+	<li>Use standard and third-party libraries;</li>
+	<li>Apply the principles of object-oriented programming widely used in commercial development;</li>
+	<li>Keep track of the functionality of your code by writing automated tests;</li>
+	<li>Keep your code errorless using bug trackers and logging;</li>
+	<li>Document your code and share it with other programmers on GitHub.</li>
+</ul>
+
+<p>After finishing this track, you will have strong junior Python developer skills to start a career in IT with the perspective towards further education in web development or data science depending on your preference.</p>",,False,False,,,,https://hyperskill.org/tracks/2
+3,Kotlin Developer,"You must be already familiar with the advantages of Kotlin and the wide opportunities it offers for back-end, front-end, as well as Android app development. If you want to join the vast community of developers around the globe who opt for this low-maintenance, elegant, and concise language, this track is for you.","[196, 126, 88, 89, 87, 8, 182, 160, 138, 67, 70, 123, 165, 71, 106, 75, 86, 83, 100, 202, 214]","{'easy': [196, 126, 138, 123, 165], 'medium': [8, 160, 67, 70, 71, 106, 86, 202], 'hard': [182, 75, 83, 214], 'nightmare': [88, 89, 87, 100]}",88,196,130-3,732715.6204900006,242,"<p>Here, you will upgrade your functional programming expertise alongside testing, debugging, and data-organizing skills. Working on challenging projects, you will gain competence with smart algorithms, handy libraries, and advanced development tools. What you will do:</p>
+
+<ul>
+	<li>Simplify your application design with functional programming;</li>
+	<li>Master key programming concepts, such as binary numbers;</li>
+	<li>Get familiar with helpful tools like Java and Kotlin libraries;</li>
+	<li>Learn how to efficiently organize your data;</li>
+	<li>Get experience with different data formats, such as JSON, CSV, etc.</li>
+	<li>Practice making your code clear and concise even in most complex tasks;</li>
+	<li>Learn how to find bugs in your code;</li>
+	<li>Implement some popular algorithms;</li>
+	<li>Work with professional development tools (IDE);</li>
+	<li>Handle multiple tasks quickly and efficiently.</li>
+</ul>
+
+<p>Show your commitment to the Kotlin cause, select the track, and have a nice Kotlin!</p>",,False,False,,,,https://hyperskill.org/tracks/3
+5,Frontend Developer,"Do you want to create your own websites or web applications? Choose this track to learn the most popular development tool suite among programmers around the world. We will cover the basics of JavaScript, HTML, and CSS to discover the power of modern Frontend development.","[193, 183, 115, 137, 143, 101, 210]","{'easy': [193], 'medium': [115], 'hard': [183, 143, 101], 'nightmare': [137, 210]}",115,193,130-5,243234.8994060004,159,"<p>Get new skills by making real projects that suit your level. Choose the first one and let the adventure begin! After completing all the topics and projects in the track, you will be able to make a website or application for your own purposes. In the process of learning, you will find out:</p>
+
+<ul>
+	<li>How the browsers render web pages;</li>
+	<li>How to create your own pages, and set styles for them;</li>
+	<li>How to make your web pages interactive with the help of JavaScript;</li>
+	<li>How CSS can help you to create animation;</li>
+	<li>How to make web pages and apps look perfect on all devices and browsers;</li>
+	<li>How to process browser events and build programs using functions and conditions;</li>
+	<li>The potential of WebStorm integrated development environment;</li>
+	<li>Benefits of React, one of the most trending JavaScript libraries.</li>
+</ul>",,True,True,,,,https://hyperskill.org/tracks/5
+6,Python for Beginners,"If you want to try yourself in programming and are planning to do that with Python, this track is definitely for you! You'll learn the main programming concepts and all Python basics needed to get a good taste of this programming language.","[69, 73, 90, 97, 98]","{'easy': [97, 98], 'medium': [], 'hard': [90], 'nightmare': [69, 73]}",73,90,130-6,109911.40322300378,59,"<p>You&#39;ve never tried programming with Python but would like to? This track is perfect for you! While completing the track, you&rsquo;ll be able to work on several simple projects aimed at making your first acquaintance with Python more interesting and practice-oriented. You&rsquo;ll start with the basics and get to learn the main concepts and the syntax of the language. It will allow you to become part of the developers&rsquo; community, since you&rsquo;ll speak their language, and numerous coding examples will help you explore the power of Python and the possibilities of programming in general. Here is what you will learn:</p>
+
+<ul>
+	<li>Main programming concepts (loops, variables, control structures, etc.);</li>
+	<li>Using professional development environments to work on your code;</li>
+	<li>Basic Python syntax;</li>
+	<li>Breaking a problem into small parts and building an algorithm for a program;</li>
+	<li>Writing well readable code;</li>
+	<li>Applying ready-made solutions in your code: modules and functions;</li>
+	<li>Creating a program that works from the command line.</li>
+</ul>
+
+<p>As a result of learning this track, you will be able to apply the gained knowledge at school or at work to automate routine tasks. This should also be enough to figure out if you like Python and programming in general and would be interested in further education or even a career in IT.</p>",,False,False,,,,https://hyperskill.org/tracks/6
+8,Java for Beginners,"If you don't have much experience in programming, this track is the best way to start your journey to the Java world by learning the basics. Here, you'll cover topics relevant to the AP Computer Science course on Java programming.","[181, 184, 113, 53, 39, 133, 58, 46, 48, 125, 81, 44, 77, 33]","{'easy': [113, 48], 'medium': [133, 33], 'hard': [181, 184, 53, 125, 81], 'nightmare': [39, 58, 46, 44, 77]}",113,113,130-8,350179.5000249995,109,"<p>While completing this track you will work on simple projects which can become a perfect entry point for building your CV and a great practice for passing AP on Computer Science. This track includes:</p>
+
+<ul>
+	<li>Learning the syntax of Java</li>
+	<li>Dealing with integers</li>
+	<li>Working with strings and arrays</li>
+	<li>Getting acquainted with loops and conditions</li>
+	<li>Exploring the basic ideas of object-oriented programming</li>
+	<li>Processing the user&#39;s input</li>
+	<li>Handling runtime errors</li>
+	<li>Developing your very first complex program from scratch</li>
+</ul>",,False,False,,,,https://hyperskill.org/tracks/8
+9,Java Desktop Application Developer,Expand your knowledge of Java and create a real application with a Swing framework. This track is #1 if you strive to become a master of desktop app development.,"[191, 184, 113, 53, 39, 133, 58, 42, 46, 48, 62, 45, 171, 66, 125, 76, 81, 38, 44, 47, 77, 52, 174, 33, 65, 61, 54, 197]","{'easy': [113, 133, 48], 'medium': [81, 33], 'hard': [184, 53, 39, 58, 125, 76, 44, 77, 54], 'nightmare': [191, 42, 46, 62, 45, 171, 66, 38, 47, 52, 174, 65, 61, 197]}",113,113,130-9,612444.1093159954,210,"<p>For this track, we picked out the projects that are best suited for achieving this goal. Continue your journey through the Java world with this track and you will:</p>
+
+<ul>
+	<li>Learn more about the graphical user interface;</li>
+	<li>Use a Swing widget library for creating GUI;</li>
+	<li>Explore multithreading to make your GUI more responsive;</li>
+	<li>Deal with HTML by using the regular expressions;</li>
+	<li>Understand how to work with Random class.</li>
+</ul>",,True,False,,,,https://hyperskill.org/tracks/9
+10,Natural Language Processing,"Embark upon this track to get the essential skills of working with text data using Python. Texts constitute the lion's share of all information stored on the Internet and beyond. This track will equip you with the right tools not only to process, filter, and analyze text data, but also to scrape it from the Internet, generate texts yourself, and extract from them useful information such as key terms and opinions. To make the process even more fun, some of the projects have been implemented as games, so join without a doubt!","[175, 157, 146, 163, 145, 134, 173, 166, 128, 78, 69, 79, 73, 156, 90, 68, 141, 97, 208, 98]","{'easy': [90, 97, 208, 98], 'medium': [175, 157, 146, 173, 69, 73, 156, 68, 141], 'hard': [163, 145, 78], 'nightmare': [134, 166, 128, 79]}",175,157,130-10,512367.6960380029,182,"<p>Dive into Python&#39;s tools for text data processing. Gain experience working with authentic projects dedicated to fundamental NLP tasks, such as text classification, generation, or summarization. Get to know the main NLP fields, compile a good portfolio with genuine projects, and realize what NLP fields you would like to explore further. Progressing through different projects of this track will grant you a chance to:</p>
+
+<ul>
+	<li>Understand the basic steps of raw text pre-processing;</li>
+	<li>Learn how to represent a text in a computer-readable form;</li>
+	<li>Work with popular NLP libraries;</li>
+	<li>Classify texts by their style using machine learning;</li>
+	<li>Summarize the text&#39;s content;</li>
+	<li>Detect spam messages;</li>
+	<li>Identify text&#39;s sentiment;</li>
+	<li>Evaluate how hard a text is for a reader;</li>
+	<li>Generate your own texts using Markov Models;</li>
+	<li>Scrape websites and get the text data from them;</li>
+	<li>Learn to use API to work with websites;</li>
+	<li>Practice with regular expressions to set templates for texts.</li>
+</ul>
+
+<p>This track gives useful additional knowledge to Python developers to start using NLP techniques in their projects. It is also a good opportunity for anyone interested to explore the possibility of becoming an NLP engineer in the future or just learn a little about NLP. If you&#39;re a linguist or philologist wishing to switch to or try computer language processing, consider it as well.</p>",,True,False,,,,https://hyperskill.org/tracks/10
+11,Django Developer,"Choose this track to dive into the Django Framework, one of the most popular web development tools. Django is a secure, fast, and scalable framework that allows you to create apps without pondering the twists and turns of web development.","[157, 146, 162, 173, 78, 114, 79, 99, 102, 85, 68, 94, 97, 208, 98]","{'easy': [157, 97, 208, 98], 'medium': [146, 162, 173, 78, 68], 'hard': [114, 79, 99], 'nightmare': [102, 85, 94]}",146,157,130-11,323217.2605420072,203,"<p>In this track, you will focus on Django, one of the most-used Python frameworks in web programming. You will choose a project and write a complex program, getting all necessary information from provided theoretical materials. Going through this track, you will learn to:</p>
+
+<ul>
+	<li>create pages and link them together;</li>
+	<li>allow users to interact with different objects on a page;</li>
+	<li>create page layouts with Django templates;</li>
+	<li>write pieces of code in HTML and CSS to format pages;</li>
+	<li>process HTTP queries;</li>
+	<li>work with admin interface to store and manipulate data;</li>
+	<li>create and use databases for your web-applications;</li>
+	<li>organize server-client communication;</li>
+	<li>allow users to sign up and log in to your site;</li>
+	<li>understand the architecture of Django applications.</li>
+</ul>
+
+<p>Apart from learning the Django Framework itself, you will go through topics that are essential for any developer: git, introduction to databases, command line, programming design principles, software development models, and multithreading. Overall, this track will give you a good start in becoming a junior backend developer and you will be able to manage simple Django servers and apps with confidence. After finishing the track, it will be easier for you to take up a career in a company where Django is the main development framework.</p>",,True,False,,,,https://hyperskill.org/tracks/11
+12,Java Backend Developer,Choose this track to dive into Java backend programming and develop web applications on Spring Boot to get prepared for your first Junior interview. This track is a fresh start for your professional career as a Backend developer in a tech company. Publish your applications on Heroku and make them available for users all around the world!,"[191, 181, 184, 113, 189, 53, 39, 130, 133, 180, 91, 42, 46, 48, 62, 45, 93, 66, 140, 63, 76, 81, 38, 44, 47, 77, 52, 174, 33, 61, 197, 217]","{'easy': [113, 133, 48, 33], 'medium': [181, 184, 53, 39, 46, 93, 66, 63, 76, 81, 44, 77], 'hard': [191, 189, 42, 62, 45, 140, 38, 47, 52, 174, 61, 197], 'nightmare': [130, 180, 91, 217]}",184,181,130-12,899480.4904639923,364,"<p>In this track, we included topics that will help you to solve the tasks that various companies provide to job applicants for a Junior position. The track includes Java fundamentals, basic algorithms, and all must-haves for creating a runnable web application using the Spring Boot framework. With our educational projects, you&#39;ll get the experience of working with modern tools and OS internals step by step. Here are some of the things you&rsquo;ll do:</p>
+
+<ul>
+	<li>Learn basic syntax of Java;</li>
+	<li>Get familiar with object-oriented programming;</li>
+	<li>Deal with generics and collections;</li>
+	<li>Manage access and store data in files and databases;</li>
+	<li>Create web applications using Spring Boot;</li>
+	<li>Learn basics of HTML, CSS, and JavaScript programming;</li>
+	<li>Investigate the basic algorithms that will help you to solve different tasks;</li>
+	<li>Learn how to work with Gradle, IDE, the command line, Git, and many more;</li>
+	<li>Learn how to interact with members of the team working under the same project.</li>
+</ul>",,False,False,,,,https://hyperskill.org/tracks/12
+15,Java Core,This track deals with the standard Java tools that allow you to solve algorithmic problems or design math models. Choose this track to work with non-trivial and complex projects!,"[191, 181, 184, 113, 53, 39, 133, 58, 42, 46, 48, 45, 43, 50, 66, 125, 63, 76, 81, 38, 44, 47, 77, 52, 33, 65, 120, 64, 61, 132]","{'easy': [113, 133, 48, 33], 'medium': [181, 184, 53, 125, 63, 81, 77], 'hard': [191, 39, 58, 42, 46, 45, 43, 66, 76, 38, 44, 47, 52, 65, 120, 64, 61], 'nightmare': [50, 132]}",184,181,130-15,699923.8505349958,240,"<p>In this track, you will learn basic Java syntax and get familiar with the most common data structures. This track won&#39;t overwhelm you with a detailed analysis of Java internals or backend technologies. Instead, as a general-purpose language, Java will lend you a helping hand in solving complex and interesting problems! While progressing through different projects of this track you will:</p>
+
+<ul>
+	<li>Understand the syntax of Java and write readable and efficient code;</li>
+	<li>Master various algorithms and structures;</li>
+	<li>Learn how to work with data;</li>
+	<li>Polish your knowledge of maths and learn more about linear algebra, numeral systems, and many more;</li>
+	<li>Learn how to handle exceptions;</li>
+	<li>Explore the build tools necessary for programming.</li>
+</ul>",,False,False,,,,https://hyperskill.org/tracks/15
+16,First Glance at Android,This track is still under development. New topics and projects are coming soon. Knowledge of a programming language is needed to create Android apps. So finishing the Kotlin Basics track before starting the First glance at Android track is highly recommended.,"[190, 158, 196, 126, 72, 8, 138, 67, 70, 123, 75, 202, 214]","{'easy': [196, 126, 138, 123], 'medium': [8, 67, 70, 75, 202], 'hard': [190, 158, 214], 'nightmare': [72]}",190,196,130-16,412436.66457200446,169,"<p>Android is an extremely popular platform having over 70% mobile market share. It&rsquo;s free and open-source, with a new version containing all the latest features released each year. Select this track if you want to learn how to develop compelling, professional-quality apps &mdash; a skill that&rsquo;s in great demand across the globe. You will discover how to:</p>
+
+<ul>
+	<li>Create and run an app, either on an emulator or a real device;</li>
+	<li>Design UIs;</li>
+	<li>Store data locally or access it from the network;</li>
+	<li>Build dynamic UIs and navigation graphs with Fragments;</li>
+	<li>Create custom UI components;</li>
+	<li>Get familiar with helpful tools like Java and Kotlin libraries;</li>
+	<li>Work with professional development tools like Android studio;</li>
+	<li>Handle multiple tasks quickly and efficiently.</li>
+</ul>
+
+<p>If you&#39;re familiar with Kotlin, why hesitate? Choose the Android track, and let&#39;s get started!</p>",,True,False,,,,https://hyperskill.org/tracks/16
+17,Java Developer,"Choose this track to learn more about Java, one of the most popular programming languages. This language has a rich history, and it is used by a huge community of developers around the world.","[191, 184, 113, 53, 39, 133, 58, 42, 46, 48, 62, 45, 43, 50, 93, 66, 125, 140, 63, 76, 81, 38, 44, 77, 52, 174, 33, 65, 120, 64, 61, 54, 197, 132]","{'easy': [113, 133, 48, 33], 'medium': [184, 53, 125, 63, 81, 77], 'hard': [191, 39, 58, 42, 46, 62, 45, 43, 93, 66, 76, 38, 44, 52, 174, 65, 120, 64, 61, 54, 197], 'nightmare': [50, 140, 132]}",113,113,130-17,764898.5273949988,267,"<p>Dive into Java fundamentals with this track. Start with basic Java syntax, learn about common OOP concepts and explore standard data structures. Enhance your knowledge of Java with more complex language features such as multithreading or reflection. The track does not focus on learning frameworks, but the knowledge it provides will help you learn any framework you need. While progressing through different projects of this track you will:</p>
+
+<ul>
+	<li>Understand Java syntax and write readable and efficient code;</li>
+	<li>Apply the principles of object-oriented programming widely used in commercial development;</li>
+	<li>Simplify your application design with functional programming;</li>
+	<li>Use collections to effectively process data in your application;</li>
+	<li>Use multicore processing to optimize the speed of your app;</li>
+	<li>Apply the basic design patterns;</li>
+	<li>Work with must-haves of backend development &ndash; databases and HTTP requests;</li>
+	<li>Deal with data formats like JSON and XML;</li>
+	<li>Get familiar with the essential build tools.</li>
+</ul>",,False,False,,,,https://hyperskill.org/tracks/17
+18,Kotlin Basics,"Want to get a taste of programming with a cutting-edge developer language? Try Kotlin, a modern cross-platform language combining functional and object-oriented programming features.","[196, 126, 88, 89, 8, 182, 160, 138, 67, 70, 123, 165, 71, 106, 75, 83, 202, 214]","{'easy': [196, 126, 138, 123, 165], 'medium': [67, 71, 202], 'hard': [8, 182, 160, 70, 106, 75, 214], 'nightmare': [88, 89, 83]}",88,196,130-18,565564.4884130016,154,"<p>In this track, you&rsquo;ll get familiarized with the language syntax, concepts, and libraries, as well as with the basics of OOP. Working on real-life projects, you&rsquo;ll learn to appreciate the simplicity, clarity, and beauty of Kotlin code.<br />
+What you will do:</p>
+
+<ul>
+	<li>Learn the Kotlin syntax and work with a variety of its features;</li>
+	<li>Simplify your application design with functional decomposition;</li>
+	<li>Master key programming concepts;</li>
+	<li>Clarify your code with OOP decomposition;</li>
+	<li>Get familiar with helpful tools like Java and Kotlin libraries;</li>
+	<li>Learn how to deal with bugs in your programs;</li>
+	<li>Work with professional development tools, IDEs;</li>
+	<li>Get text processing experience;</li>
+	<li>Learn how to work with the file system.</li>
+</ul>
+
+<p>Ready to get your feet wet? Select the track and start your journey!</p>",,False,True,,,,https://hyperskill.org/tracks/18
+25,Go for Beginners,"This track gives you essential knowledge about the Go language, or shortly Golang. You'll get acquainted with the syntax of the language and its built-in data structures, as well as learn to make a simple HTTP server.","[194, 201, 206]","{'easy': [194, 206], 'medium': [], 'hard': [], 'nightmare': [201]}",194,206,130-25,110302.1139459999,89,"<p><strong>What you&#39;ll do</strong></p>
+
+<p>The track focuses on the basics of the Go language and its standard library. You will learn:</p>
+
+<ul>
+	<li>how to run Go programs in the terminal;</li>
+	<li>how to work with primitive types and data structures in Go;</li>
+	<li>how to work with the data format JSON in Go;</li>
+	<li>how to make a simple HTTP server and client.</li>
+</ul>",,True,False,,,,https://hyperskill.org/tracks/25
+26,Introduction to Command Line and Unix Shell,This short track is for those who want to get acquainted with the command-line interface and learn about the possibilities of automating tasks using the Unix shell (Bash). The track doesn't have projects and contains only topics and problems for practice.,[],"{'easy': [], 'medium': [], 'hard': [], 'nightmare': []}",,,130-26,29594.4713879997,39,"<p>For developers, it&#39;s essential to master working with the command line. On completing the course, you will:</p>
+
+<p>- get acquainted with the basic principles of working with the command line;<br />
+- get to know Bash syntax;<br />
+- learn how to work with files and package managers;<br />
+- learn more about automating tasks.</p>",,True,False,,,,https://hyperskill.org/tracks/26
+27,Introduction to Linear Algebra,"It's impossible to imagine cutting-edge Computer Science without solid mathematical underpinnings. Game and graphics developers, data analysts, machine learning, and deep learning engineers employ various devices of linear algebra to implement new ideas. This introductory mini-track will give you a glimpse into the world of vectors, matrices, and linear transformations. Explore new concepts and techniques that could prove useful in the digital world. The track contains no projects, only topics, and problems for practice.",[],"{'easy': [], 'medium': [], 'hard': [], 'nightmare': []}",,,130-27,34107.1995169998,32,"<p><span style=""color:#000000"">With this track, you will:</span></p>
+
+<ul>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">Learn how to describe objects and present data with vectors and matrices;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">Find out how to use matrices to solve linear equations;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">Perform various operations with vectors and matrices;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">Deal with vector spaces and linear operators;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">Examine a popular singular value decomposition technique used in image processing and up-to-date recommendation systems.</span></li>
+</ul>",,True,False,,,,https://hyperskill.org/tracks/27
+28,Introductory Machine Learning in Python,"In this track, you will make your first steps in Machine Learning, a subfield of Artificial Intelligence that focuses on creating algorithms that can gain knowledge from collected data and apply it to new cases. You will develop a deep understanding of the most fundamental ML techniques, as well as get practical experience with such Python libraries as numpy, pandas, and sklearn.","[195, 146, 152, 156, 68, 97, 98]","{'easy': [97, 98], 'medium': [146, 156, 68], 'hard': [], 'nightmare': [195, 152]}",195,146,130-28,310215.606346003,162,"<p>This track lays a strong foundation for understanding more advanced ML algorithms. Upon completion, you will have a clear idea of the main types of ML algorithms, become familiar with the general pipeline of building an ML model, and get a sense of what skills and competences it takes to be an ML expert.</p>",,True,False,"After completing this track, you could perform the role of a Junior ML engineer. With some additional knowledge of Statistics, data visualization techniques, and SQL, you could start your career as a Data Analyst or a Data Scientist. This track is also useful for managers whose teams are using ML, as it provides an overview of the field.",,,https://hyperskill.org/tracks/28
+29,Flask Developer,"Flask is one of the most popular frameworks for web development in Python: while Python is mostly used for building backends, Flask also allows you to create a simple frontend for your app without taking too much effort.  Flask is very lightweight and beginner-friendly. Choose this track for an easy start in web development: go from writing a simple app to customizing and deploying it to share with the world.","[157, 170, 164, 159, 90, 68, 97, 208, 98]","{'easy': [157, 90, 97, 208, 98], 'medium': [68], 'hard': [159], 'nightmare': [170, 164]}",164,157,130-29,294964.0297120026,208,"<p>While studying this track, you will dive into Flask web development. You will read topics covering not only the basic framework tools and usages but also some &quot;real world&quot; third-party libraries and tools which will help make your development process easier and more efficient. Along with that, you&#39;ll work on projects of different levels and kinds to consolidate the learning. There are not so many projects available yet, but there will be more to come!</p>
+
+<p><span style=""color:#000000"">Going through this track, you will learn to:</span></p>
+
+<ul>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">create a basic app, make it render pages, and access it from the browser;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">know the difference between a monolithic application and an API and develop both of them;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">&nbsp;configure advanced settings of the application to make most of it;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">connect and use databases to store your application&#39;s data;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">integrate tools to facilitate working with HTML in your apps;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">work with users, log them in, and store the session to make the user experience better;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">use best practices for web application architecture;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">test your application depending on its type;</span></li>
+	<li style=""list-style-type:disc""><span style=""color:#000000"">deploy your application so it&#39;s available to the public.</span></li>
+</ul>
+
+<p><span style=""color:#000000"">Apart from learning Flask itself, you will go through topics that are essential for any developer: git, introduction to databases, command line, programming design principles, software development models, and multithreading.</span></p>
+
+<p><span style=""color:#000000"">Completing this track will give you a good start in becoming a junior backend developer. You&#39;ll be able to manage simple Flask applications, choose the right tools to work on them, and maintain them up to the deployment stage</span></p>",,True,False,,,,https://hyperskill.org/tracks/29
