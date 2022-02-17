@@ -24,7 +24,7 @@ class Topic(Object):
     id: int
     children: List[int]
     depth: int
-    followers: list[int]
+    followers: List[int]
     has_steps: bool
     hierarchy: List[int]
     prerequisites: List[int]
