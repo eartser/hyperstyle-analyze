@@ -1,37 +1,17 @@
-![Python build](https://github.com/hyperskill/hyperstyle/workflows/Python%20build/badge.svg?branch=develop)
+# Hyperskill statistics analysis
 
-# Hyperstyle analysis
-
-A set of analysis utilities for the [Hyperstyle](https://github.com/hyperskill/hyperstyle) tool.
-  
----
+Test task for JetBrains Research Hyperstyle team for project "Large Scale Analysis of Code Quality". 
 
 ## Installation
 
-Simply clone the repository and run the following commands:
+`pip install -r requirements.txt`
 
-1`pip install -r requirements.txt`
-2`pip install -r requirements-test.txt` for tests
-3`pip install -r requirements-roberta.txt` for roberta model
+## Data collection
 
-**Note**: you should set up the set of environment variables to `Hyperstyle` work correctly.
-Please, follow the [Dockerfile](https://github.com/hyperskill/hyperstyle/blob/bf3c6e2dc42290ad27f2d30ce42d84a53241544b/Dockerfile#L14-L40) 
-from the `Hyperstyle` repository.
-To check the environment is set up correctly you can output the variables in the terminal, e.g.
-```bash
-echo $DETEKT_DIRECTORY && echo $DETEKT_VERSION
-```
-They should not be empty.
+Use [python script](https://github.com/eartser/hyperstyle-analyze/blob/main/analysis/src/python/data_collection/run_data_collection.py) to collect [data](https://github.com/eartser/hyperstyle-analyze/tree/main/output). For each property were collected at most 10000 rows.
 
-## Usage
 
-**TODO**
+## Analysis
 
----
-
-## Tests running
-
-We use [`pytest`](https://docs.pytest.org/en/latest/contents.html) library for tests.
-
-Use `pytest` from the root directory to run __ALL__ tests.
+[This](https://github.com/eartser/hyperstyle-analyze/blob/main/Hyperskill_statistics_analyze.ipynb) is aggregated data.
 
